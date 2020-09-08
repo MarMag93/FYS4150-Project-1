@@ -1,0 +1,8 @@
+﻿  Project 1 - specific.cpp
+D:\Users\Marius\Desktop\VS\Project 1 - specific\Project 1 - specific\Project 1 - specific.cpp(38,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Users\Marius\Desktop\VS\Project 1 - specific\Project 1 - specific\Project 1 - specific.cpp(88,33): warning C4244: '=': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  Project 1 - specific.vcxproj -> D:\Users\Marius\Desktop\VS\Project 1 - specific\Debug\Project 1 - specific.exe
