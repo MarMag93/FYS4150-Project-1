@@ -1,0 +1,8 @@
+﻿  Project 1 b).cpp
+D:\Users\Marius\Desktop\VS\Project 1 b)\Project 1 b)\Project 1 b).cpp(38,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Users\Marius\Desktop\VS\Project 1 b)\Project 1 b)\Project 1 b).cpp(90,33): warning C4244: '=': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  Project 1 b).vcxproj -> D:\Users\Marius\Desktop\VS\Project 1 b)\Debug\Project 1 b).exe
