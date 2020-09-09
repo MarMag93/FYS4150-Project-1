@@ -9,7 +9,7 @@ All the .sln-files are project files that can be opened in VS. The .cpp-files ar
 I also used the linear algebra library Armadillo for C++ to LU-decompose and solve the problem.
 All files produced by the program are stored as a .txt-file. 
 
-Project 1b).cpp is the general algorithm for solving the problem, using Gaussion elimination, as instructed in task b) of the project description.
+Project 1b).cpp is the general algorithm for solving the problem, using Gaussian elimination, as instructed in task b) of the project description.
 
 Project 1 - specific.cpp is the program to solve problem using a more specialized algorithm, as well a calculating the relative error to the analytical solution, as instructed in task c) and d) of project 1.
 
